@@ -19,3 +19,30 @@ A modern, responsive web catalogue for Elito's premium cast iron cookware collec
 Visit the live catalogue: [Your Netlify URL will go here]
 
 ## 📁 Project Structure
+
+## 🎨 Brand Colors
+
+- **Elito Red**: `#E53E3E` (primary brand color)
+- **Dark Text**: `#1a1a1a` (main text)
+- **Light Text**: `#666666` (secondary text)
+
+## 📱 Product Features
+
+- **Multiple Images**: 2-3 images per product with automatic carousel
+- **Interactive Hover**: Images scroll on hover
+- **Clickable Cards**: Full product details in modal
+- **Responsive**: Works on all devices
+
+## 🚀 Deployment
+
+This site is deployed using Netlify with automatic builds from GitHub.
+
+## 📞 Contact
+
+**Elito - Making Cooking Healthier**
+- Location: Bangalore, Karnataka, India
+- Business: Premium Cast Iron Cookware
+
+---
+
+*Built with ❤️ for Elito Cast Iron Cookware*
